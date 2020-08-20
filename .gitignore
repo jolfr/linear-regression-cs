@@ -1,0 +1,8 @@
+# IDE settings
+.idea
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# DS Store
+.DS_Store
